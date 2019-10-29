@@ -296,15 +296,15 @@
                 "text": "How many people are at risk of malaria in the world?",
                 "options": [
                     {
-                        "text": "1.2 million people",
+                        "text": "A. 1.2 million people",
                         "ans": false
                     },
                     {
-                        "text": "1.2 billion peoplea",
+                        "text": "B. 1.2 billion peoplea",
                         "ans": false
                     },
                     {
-                        "text": "3.2 billion people",
+                        "text": "C. 3.2 billion people",
                         "ans": true
                     }
                 ]
@@ -315,11 +315,11 @@
                 "text": "Malaria can be lethal",
                 "options": [
                     {
-                        "text": "True",
+                        "text": "A. True",
                         "ans": true
                     },
                     {
-                        "text": "False",
+                        "text": "B. False",
                         "ans": false
                     }
                 ]
@@ -327,18 +327,18 @@
             {
                 "id": "4da5db6a3",
                 "type": "simple",
-                "text": "I can protect myself from malaria",
+                "text": "Can I protect myself from malaria?",
                 "options": [
                     {
-                        "text": "Using mosquito repellent",
+                        "text": "A. Yes, Using mosquito repellent",
                         "ans": true
                     },
                     {
-                        "text": "Wearing light-coloured, long-sleeved shirts and trousers",
+                        "text": "B. Yes, Wearing light-coloured, long-sleeved shirts and trousers",
                         "ans": false
                     },
                     {
-                        "text": "Sleeping under insecticide-treated bed nets",
+                        "text": "C. Yes, Sleeping under insecticide-treated bed nets",
                         "ans": true
                     }
                     
@@ -347,14 +347,14 @@
             {
                 "id": "564a5db6a3",
                 "type": "simple",
-                "text": "There is no treatment against malaria",
+                "text": "There is no treatment against malaria?",
                 "options": [
                     {
-                        "text": "True",
+                        "text": "A. True",
                         "ans": false
                     },
                     {
-                        "text": "False",
+                        "text": "B. False",
                         "ans": true
                     }
                 ]
@@ -362,7 +362,7 @@
             {
                 "id": "46ba5db6a3",
                 "type": "simple",
-                "text": "There is a vaccine against malaria",
+                "text": "There is a vaccine against malaria?",
                 "options": [
                     {
                         "text": "True",
@@ -384,7 +384,7 @@
         {
             "id": "hi19h01",
             "type": "simple",
-            "text": "What is HIV",
+            "text": "What is HIV?.",
             "options": [
                 {
                     "text": "A. bacteria that causes aids",
@@ -407,7 +407,7 @@
         {
             "id": "hi19h02",
             "type": "simple",
-            "text": "To which of the the following Hiv virus to",
+            "text": "To which of the following does HIV virus matures to",
             "options": [
                 {
                     "text": "A. Cancer",
@@ -422,7 +422,7 @@
                     "ans":true
                 },
                 {
-                    "text": "D. hepetitis",
+                    "text": "D. Hepetitis",
                     "ans":false
                 }
 
@@ -432,22 +432,22 @@
 
             "id": "hi19h03",
             "type": "simple",
-            "text": "What is the full form of HIV",
+            "text": "What is the full form of HIV.?",
             "options": [
                 {
-                    "text": "A. Human immuno deficiency virus",
+                    "text": "A. Human Immuno Deficiency Virus",
                     "ans":true
                 },
                 {
-                    "text": "B. Human immune virus",
+                    "text": "B. Human Immune Virus",
                     "ans":false
                 },
                 {
-                    "text": "C. Health immuno deficiency virus",
+                    "text": "C. Health Immuno Deficiency Virus",
                     "ans":false
                 },
                 {
-                    "text": "D. human inntereexchange virus",
+                    "text": "D. Human Innterexchange Virus",
                     "ans":false
                 }
 
@@ -457,7 +457,7 @@
 
             "id": "hi19h04",
             "type": "simple",
-            "text": "When was HIV first recognized ",
+            "text": "When was HIV first recognized.?",
             "options": [
                 {
                     "text": "A. 1970",
@@ -482,14 +482,14 @@
 
             "id": "hi19h05",
             "type": "simple",
-            "text": "Where did HIV originate",
+            "text": "Where did HIV originate.?",
             "options": [
                 {
                     "text": "A. Mad Cow",
                     "ans":false
                 },
                 {
-                    "text": "B. chimpanzee",
+                    "text": "B. Chimpanzee",
                     "ans":true
                 },
                 {
@@ -497,7 +497,7 @@
                     "ans":false
                 },
                 {
-                    "text": "D. A human",
+                    "text": "D. A Human",
                     "ans":false
                 }
 
@@ -507,7 +507,7 @@
 
             "id": "hi19h06",
             "type": "simple",
-            "text": "which cell are destroyed by HIV",
+            "text": "Which cell are destroyed by HIV.?",
             "options": [
                 {
                     "text": "A. Red blood cells",
@@ -532,7 +532,7 @@
 
             "id": "hi19h07",
             "type": "simple",
-            "text": "Hiv affect cell in which system of the body",
+            "text": "HIV affect cell in which part of the body system",
             "options": [
                 {
                     "text": "A. Immune system",
@@ -557,7 +557,7 @@
 
             "id": "hi19h08",
             "type": "simple",
-            "text": "What is AIDS",
+            "text": "What is AIDS.?",
             "options": [
                 {
                     "text": "A. A fumgal infection",
@@ -572,7 +572,7 @@
                     "ans":false
                 },
                 {
-                    "text": "D. the final stage of HIV",
+                    "text": "D. The final stage of HIV",
                     "ans":true
                 }
 
@@ -582,7 +582,7 @@
 
             "id": "hi19h09",
             "type": "simple",
-            "text": "Which is the full form of AIDS",
+            "text": "Which is the full form of AIDS.?",
             "options": [
                 {
                     "text": "A. Acquired immunodeficiency symptoms",
@@ -623,7 +623,7 @@
 
                 "id": "hi19h011",
                 "type": "simple",
-                "text": "What does hiv positive mean ",
+                "text": "What does HIV positive mean.?",
                 "options": [
                     {
                         "text": "A. Either antibodies agiainst hiv or the virus particules the;selves are present in the blood",
@@ -648,7 +648,7 @@
 
                 "id": "hi19h12",
                 "type": "simple",
-                "text": "Which of these is a symptom of hiv",
+                "text": "Which of these is a symptom of HIV.?",
                 "options": [
                     {
                         "text": "A. Fever",
@@ -673,7 +673,7 @@
 
                 "id": "hi19h13",
                 "type": "simple",
-                "text": "How does HIV becomes AIDS",
+                "text": "How does HIV becomes AIDS?",
                 "options": [
                     {
                         "text": "A. HIV attacks the  cells",
@@ -720,7 +720,7 @@
             {
                 "id": "hi19h15",
                 "type": "simple",
-                "text":"what is the symbol of HIV –positive people",
+                "text":"What is the symbol of HIV –positive people.?",
                 "options":[
                     {
                         "text": "A. red ribbon",
@@ -743,7 +743,7 @@
             {
                 "id": "hi19h16",
                 "type": "simple",
-                "text":"In which country AIDS was first clinicly observed",
+                "text":"In which country was AIDS first clinicly observed",
                 "options":[
                     {
                         "text": "A. India",
@@ -766,7 +766,7 @@
             {
                 "id": "hi19h17",
                 "type": "simple",
-                "text":"HIV only affects certain groups of people",
+                "text":"HIV only affects certain group of people",
                 "options":[
                     {
                         "text": "A. True",
@@ -781,7 +781,7 @@
             {
                 "id": "hi19h18",
                 "type": "simple",
-                "text":"Which of the following doen't contain HIV",
+                "text":"Which of the following doen't contain HIV.?",
                 "options":[
                     {
                         "text": "A. Blood",
@@ -804,7 +804,7 @@
             {
                 "id": "hi19h19",
                 "type": "simple",
-                "text": "Which of the following is not considered a commond method for the transmission for HIV",
+                "text": "Which of the following is not considered a commond method for the transmission of HIV.?",
                 "options":[
                     {
                         "text": "A. Breast Milk",
@@ -858,7 +858,7 @@
             {
                 "id": "hi19h22",
                 "type": "simple",
-                "text": "Which of the following prevent HIV",
+                "text": "Which of the following prevent HIV.?",
                 "options":[
                     {
                         "text": "A. Washing after Sex",
@@ -869,7 +869,7 @@
                         "ans":true
                     },
                     {
-                        "text": "C. contraceptie pill",
+                        "text": "C. cContraceptie pill",
                         "ans":false
                     },
                     {
@@ -881,7 +881,7 @@
             {
                 "id": "hiv19h22",
                 "type": "simple",
-                "text": "Is it possible for parent living with HIV to have an hiv negative baby.",
+                "text": "Is it possible for parent living with HIV to have an HIV negative baby.?",
                 "options":[
                     {
                         "text":"A. Yes",
@@ -897,7 +897,7 @@
             {
                 "id": "hiv19h23",
                 "type": "simple",
-                "text": "what can condoms protect you from",
+                "text": "What can condoms protect you from.?",
                 "options":[
                     {
                         "text":"A. Pregnancy",
@@ -920,7 +920,7 @@
             {
                 "id": "hiv19h24",
                 "type": "simple",
-                "text": "Which of this things can transmit",
+                "text": "Which of this can transmit HIV.?",
                 "options":[
                     {
                         "text":"A. Kissing",
@@ -943,7 +943,7 @@
             {
                 "id": "hiv19h25",
                 "type": "simple",
-                "text": "When a pregnant woman has HIV the baby always get it too",
+                "text": "When a pregnant woman has HIV the baby always get it too.?",
                 "options":[
                     {
                         "text":"True",
@@ -962,11 +962,11 @@
                 "text": "You can tell if people have HIV/AIDS by looking at them",
                 "options":[
                     {
-                        "text":"True",
+                        "text":"A. True",
                         "ans":false
                     },
                     {
-                        "text":"False",
+                        "text":"B. False",
                         "ans":true
                     }
 
@@ -975,7 +975,7 @@
             {
                 "id":"hiv19h27",
                 "type":"simple",
-                "text":"Why is HIV testing important?",
+                "text":"Why is HIV testing important.?",
                 "options": [
                     {
                         "tex": "A. Because it is the only way to know if have HIV",
@@ -1001,11 +1001,11 @@
                 "text":"There are vacine that prevent HIV completely",
                 "options": [
                     {
-                        "text":"True",
+                        "text":"A. True",
                         "ans":false
                     },
                     {
-                        "text":"False",
+                        "text":"B. False",
                         "ans":true
                     }
                 ]
@@ -1013,7 +1013,7 @@
             {
                 "id":"hiv19h29",
                 "type":"simple",
-                "text":"which is the first most common way of spreading HIV",
+                "text":"Which is the first most common way of spreading HIV.?",
                 "options": [
                     {
                         "text":"A. Sharing needles",
@@ -1036,7 +1036,7 @@
             {
                 "id":"hiv19h30",
                 "type":"simple",
-                "text":"What is the best way to protected yourself againts HIV",
+                "text":"What is the best way to protected yourself againts HIV.?",
                 "options": [
                     {
                         "text":"A. Use birth controll pills",
@@ -1059,22 +1059,22 @@
             {
                 "id":"hiv19h31",
                 "type":"simple",
-                "text":"which is the second most common way of spreading HIV",
+                "text":"Which is the second most common way of spreading HIV.?",
                 "options": [
                     {
                         "text":"A. Sharing needles",
                         "ans":false
                     },
                     {
-                        "text":"B. from infected mother  to child",
+                        "text":"B. From infected mother  to child",
                         "ans":true
                     },
                     {
-                        "text":"C. sharing food",
+                        "text":"C. Sharing food",
                         "ans":false
                     },
                     {
-                        "text":"D. sexual intercourse with hiv infected person",
+                        "text":"D. Sexual intercourse with hiv infected person",
                         "ans":false
                     }
                 ]
@@ -1082,7 +1082,7 @@
             {
                 "id":"hiv19h32",
                 "type":"simple",
-                "text":"Most teenager with hiv become infected",
+                "text":"Most teenagers with HIV become infected",
                 "options": [
                     {
                         "text":"A. From sharing needles and syringes or having sex with hiv infected patient",
@@ -1105,7 +1105,7 @@
             {
                 "id":"hiv19h33",
                 "type":"simple",
-                "text":"hiv may be spread from contaminated needles when",
+                "text":"HIV may be spread from contaminated needles when",
                 "options": [
                     {
                         "text":"A. Piercing ears or other body parts",
@@ -1128,7 +1128,7 @@
             {
                 "id":"hiv19h34",
                 "type":"simple",
-                "text":"what does HIV treatment do",
+                "text":"What does HIV treatment do.?",
                 "options": [
                     {
                         "text":"A. Cure HIV",
@@ -1151,7 +1151,7 @@
             {
                 "id":"hiv19h35",
                 "type":"simple",
-                "text":"When should you start treatment",
+                "text":"When should you start treatment.?",
                 "options": [
                     {
                         "text":"A. A late as possible",
@@ -1174,7 +1174,7 @@
             {
                 "id":"hiv19h36",
                 "type":"simple",
-                "text":"How does HIv treatment work",
+                "text":"How does HIV treatment work.?",
                 "options": [
                     {
                         "text":"A. Acts as a painkiller",
@@ -1197,7 +1197,7 @@
             {
                 "id":"hiv19h37",
                 "type":"simple",
-                "text":"what is the best way to ensure your treatment works properly",
+                "text":"What is the best way to ensure your treatment works properly.?",
                 "options": [
                     {
                         "text":"A. Taking your medication consistently",
@@ -1220,22 +1220,22 @@
             {
                 "id":"hiv19h38",
                 "type":"simple",
-                "text":"what should you do if your medicine isn’t agreeing with you",
+                "text":"What should you do if your medicine isn’t agreeing with you.?",
                 "options": [
                     {
-                        "text":"A.  look for alternative herbal medicine",
+                        "text":"A. Look for alternative herbal medicine",
                         "ans":false
                     },
                     {
-                        "text":"B. top taking your mediation",
+                        "text":"B. Stop taking your medication",
                         "ans":false
                     },
                     {
-                        "text":"C. keep taking the medicine",
+                        "text":"C. Keep taking the medicine",
                         "ans":false
                     },
                     {
-                        "text":"D.Speak to you doctor about your symptoms there might be other treatment option ",
+                        "text":"D. Speak to you doctor about your symptoms there might be other treatment option ",
                         "ans":true
                     }
                 ]
@@ -1243,22 +1243,22 @@
             {
                 "id":"hiv19h39",
                 "type":"simple",
-                "text":"What does being undetectable mean",
+                "text":"What does being undetectable mean.?",
                 "options": [
                     {
-                        "text":"A. you don’t have symptoms  so there is no evidence that you have HIV",
+                        "text":"A. You don’t have symptoms so there is no evidence that you have HIV",
                         "ans":false
                     },
                     {
-                        "text":"B. other people can’t tell you have hiv because your treatment is working",
+                        "text":"B. Other people can’t tell you have hiv because your treatment is working",
                         "ans":false
                     },
                     {
-                        "text":"C. The level of hiv in the blood is so low it can't  be detected in test and can’t be passed on",
+                        "text":"C. The level of HIV in the blood is so low it can't be detected in test and can’t be passed on",
                         "ans":true
                     },
                     {
-                        "text":"D. Have no longer HIV",
+                        "text":"D. No longer have HIV",
                         "ans":false
                     }
                 ]
@@ -1281,7 +1281,7 @@
             {
                 "id":"hiv19h41",
                 "type":"simple",
-                "text":"so long as you are taking the treatment your treatment then you are undetectable",
+                "text":"So long as you are taking your treatment then you are undetectable",
                 "options": [
                     {
                         "text":"A. True",
@@ -1296,7 +1296,7 @@
             {
                 "id":"hiv19h42",
                 "type":"simple",
-                "text":"Why is a combination of medicines called a cocktail used too treat HIV",
+                "text":"Why is a combination of medicines called a cocktail used too treat HIV.?",
                 "options": [
                     {
                         "text":"A. The virus changes rapidly",
@@ -1319,7 +1319,7 @@
             {
                 "id":"hiv19h43",
                 "type":"simple",
-                "text":"Opportunistic infections qre ;ore  frequent and ;ore severe in people with HIV",
+                "text":"Opportunistic infections are more frequent and more severe in people with HIV",
                 "options": [
                     {
                         "text":"A. True",
@@ -1338,7 +1338,7 @@
         "description": "breast cancer",
         "questions": [
             {
-
+                
             }
         ]
     },
