@@ -108,7 +108,53 @@
     "breast_cancer": {
         "title": "Breast Cancer",
         "description": "breast cancer",
-        "videos": []
+        "videos": [
+            {
+                "id": "693c5545821",
+                "label": "Introduction to breast cancer",
+                "link": "1. Introduction to breast cancer.mp4"
+            },
+            {
+                "id": "693c554582",
+                "label": "Cells of Glandular Tissue",
+                "link": "2. Cells of Glandular Tissue.mp4"
+            },
+            {
+                "id": "693c554583",
+                "label": "Cancer causing mutation",
+                "link": "3. Cancer causing mutation.mp4"
+            },
+            {
+                "id": "693c55454",
+                "label": "Types of Tumor (in-si-tu carcinoma)",
+                "link": "4. Types of Tumor.mp4"
+            },
+            {
+                "id": "693c55455",
+                "label": "complications",
+                "link": "5. complications.mp4"
+            },
+            {
+                "id": "693c55456",
+                "label": "Symptoms",
+                "link": "6. Symptoms.mp4"
+            },
+            {
+                "id": "693c55457",
+                "label": "Diagnosis",
+                "link": "7. Diagnosis.mp4"
+            },
+            {
+                "id": "693c55458",
+                "label": "Treatment",
+                "link": "8. Treatment.mp4"
+            },
+            {
+                "id": "693c55459",
+                "label": "Quick recap.mp4",
+                "link": "9. Quick recap.mp4"
+            },
+        ]
     },
     "hepatitis": {
         "title": "Hepatitis",
